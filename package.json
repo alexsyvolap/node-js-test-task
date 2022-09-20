@@ -1,0 +1,17 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Onix Internship Test Task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Alex Syvolap",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0"
+  }
+}
