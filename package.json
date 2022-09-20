@@ -4,7 +4,7 @@
   "description": "Onix Internship Test Task",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "serve": "node index.js"
   },
   "author": "Alex Syvolap",
   "license": "MIT",
